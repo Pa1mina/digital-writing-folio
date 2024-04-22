@@ -40,3 +40,7 @@ Twine response and idea creation
 # Week 7 
 Using Bitsy 
 Response to Interactive Fiction 
+Proposal > 
+ASL, Age, Sex, Location, will be a hyperlink text based story, that is loosely based off the online chat forum 'Omegal'. 
+In ASL, two strangers conversate with one another and begin to form a friendship, Stranger 1 is not who they appear to be, and the reader is presented with accompanying photographs that are eerie in appearance. This eventually leads to the reader uncovering the death of stranger 2. 
+
