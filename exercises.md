@@ -19,3 +19,24 @@ These tools have only ever assisted me, and facilitated my writing.
 ## Volume 3 
 
 ## Volume 4 
+
+# Week 2 
+
+# Week 3 
+What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+How are those elements meaningful?
+How are the works read differently from print literature?
+How is electronic literature different from print literature?
+What are the qualities of the works we might consider as qualities of electronic lit
+
+# Week 4 
+# Week 5 
+How is it different from fiction?
+How is it different from games?
+How do you plan fiction?
+How could you plan hypertext fiction?
+# Week 6 
+Twine response and idea creation 
+# Week 7 
+Using Bitsy 
+Response to Interactive Fiction 
