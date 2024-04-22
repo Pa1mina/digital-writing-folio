@@ -11,4 +11,11 @@ I usually use the notes app on my phone to at least start off with an idea, or I
 I use these tools and techniques mostly out of habit, and because they clearly work for me. 
 ### How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
 These tools have only ever assisted me, and facilitated my writing. 
-# Week 2 
+# A Response to the Electronic Literature Collection 
+## Volume 1 
+
+## Volume 2 
+
+## Volume 3 
+
+## Volume 4 
