@@ -36,7 +36,24 @@ How is it different from games?
 How do you plan fiction?
 How could you plan hypertext fiction?
 # Week 6 
-Twine response and idea creation 
+### Twine response and idea creation
+Planning of an hypertext 
+
+Omegel 
+
+Man and Man
+
+Man 1 says Hi, ASL? 
+
+Man 1 says, Hi, 19, Female, Melbourne, you? - hypertext - Man, 57, Mums basement. 
+
+Man 2 says - ‘cool, I live in Melbourne too! I’ just turned 20, female.’ - hypertext, Man, 49, Melbourne, specifically, mums basement. 
+
+Man 1 - ‘Wow, we’re so similar! Did you have a good birthday?’ - hypertext ‘similar’ - definition of weirdo
+
+Man 2 - ‘I had an awesome birthday! I spent the night drinking with friends - Hypertext friends - takes you to a reddit post titled ‘Who to spend your birthday with when you have no friends? 
+
+Man 1 - ‘That sounds so fun, you sound pretty popular. I’d love to hangout some time, 
 # Week 7 
 ### Using Bitsy 
 ### Response to Interactive Fiction 
