@@ -21,7 +21,7 @@ These tools have only ever assisted me, and facilitated my writing.
 ## Volume 4 
 
 # Week 2 
-
+Strike/
 # Week 3 
 What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 How are those elements meaningful?
