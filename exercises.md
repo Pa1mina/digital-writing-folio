@@ -204,3 +204,16 @@ Stranger 2: I’m here, where are you? I’m by the bus shelter, I’m wearing a
 Stranger 1 has disconnected from the chat. 
 
 Overall, I am worried that it is a bit quick of a relationship. However, I do think that with the added documants I will include, the story might make more sense, or even read slower? 
+# Week 10
+I was away, but i attempted to make the website and failed. So, instead I watched Youtube Videos on Twine to try and at least be proactive. 
+I have been watching DigitalExposureTV, and using Reddit. Somehow everything is becoming easier to use. And I am actually enjoying the process. 
+# WEEK 11 
+## PROBLEMS!!!
+Since I am working within a very sensative subject matter (murder) I am finding it hard to source images that are not ACTUALLY real. People or organisations have actually uploaded real crime scene images to be used even under the Creative Commons on Google images. Ethically, I don't think it is okay to incoporate such things within my work. Although I love horror and enjoy distrubing content, I like it if it is Fiction only. Using an actual person's truama in my work is not an option, but I am struggling to find images that suit my aesthetics. For example, I really wanted to incorporate elements of Analog Horror within my work. Because it is such a niche part of the internet, finding images that fall under creative commons is basically impossible. I will have to start making my own images/videos to fit the aesthetic. 
+# WEEK 12 
+After talking to Ben and expressing my concerns, I have decided to try to use AI to create my photos. I have never used it before for anything so I will have to see how it goes. 
+## UPDATE* 
+AI is a no go. It doesn't understand that analog horror is more than just VHS, and instead of just heavily distorting images, it still attempts to make them somewhat 'pretty'. I don't want to get into a major conversation about what AI can and can't do, but I don't believe it shares my vision. 
+# WEEK 13 
+## Final WEEK!
+I have a lot 
