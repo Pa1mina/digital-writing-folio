@@ -69,12 +69,17 @@ Man 2 - ‘I had an awesome birthday! I spent the night drinking with friends - 
 Man 1 - ‘That sounds so fun, you sound pretty popular. I’d love to hangout some time, 
 # Week 7 
 ### Using Bitsy 
+I don't think I will use Bitsy. I don't think I am advanced enough for it. Right now I am leaning towards Twine, as it seemes easier to learn how to use. My story isn't finalised, I am simply just tossing up ideas. Although I do know I want to expand my prior idea. 
+Initially I wanted to mimic something like 'How To Rob A Bank' by Alan Bigelow. My idea was that I would base it around a 'user' that accidently gives his identity away after clicking on a 'Hot Mums Near You' advertisement, but this seems a bit too advanced for my limited knowledge. I don't think Twine is capable of recreating something like How To Rob a Bank, however I am not opposed to this. I need to work out a way to make Twine work for me whilst also remaining excited about my project. 
 ### Response to Interactive Fiction 
 Proposal > 
 ASL, Age, Sex, Location, will be a hyperlink text based story, that is loosely based off the online chat forum 'Omegal'. 
 In ASL, two strangers conversate with one another and begin to form a friendship, Stranger 1 is not who they appear to be, and the reader is presented with accompanying photographs that are eerie in appearance. This eventually leads to the reader uncovering the death of stranger 2. 
-
+Main issue will be the chat log. How will I make a convincing chat log span over weeks without having my Twine work become too long?
 # Week 8 
 ## Presentations of Proposals 
-I need to seperate my chat logs into weeks, 
-
+I am going ahead with my idea and naming the work Hi, ASL. I think it is very much me. It encorporates horror and I will ensure it also provides the user with additional information in some 'found evidence' so that it isn't just chat logs. My main things I need to focus on after presenting is:
+I need to seperate my chat logs into weeks to show time passing.
+I need to work out if I want my readers to be in the 'know' about Stranger 2s murder, or make it a suprise. 
+I need to actually work out how to use Twine without becoming overwhelmed. 
+# Week 9 
