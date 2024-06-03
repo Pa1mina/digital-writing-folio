@@ -83,3 +83,124 @@ I need to seperate my chat logs into weeks to show time passing.
 I need to work out if I want my readers to be in the 'know' about Stranger 2s murder, or make it a suprise. 
 I need to actually work out how to use Twine without becoming overwhelmed. 
 # Week 9 
+## Learning how to put images into Twine 
+I managed to also put a GIF into Twine from home! 
+This is now my updated Chat Log. 
+Stranger 1: Hi, ASL? 
+
+Stranger 2: 19, Female, Melbourne, you? 
+
+Stranger 1: 20, Male, Sydney. You sure you’re not some weird [pedo] pretending to be a girl? 
+
+Stranger 2: Haha, real funny. I could say the same about you, [stranger]
+
+Stranger 1: Well, I’m a real [boy] (Pinocchio picture) 
+
+Stranger 2: [[Prove it]] 
+
+
+May 7th 2006  18:54 
+
+Stranger 2: You swear that’s [[you?]]
+
+Stranger 1: Why would I [[lie?]]
+
+Stranger 2: I’m not sure. I guess I just doubt good things could [[happen to me]] sometimes. 
+
+Stranger 1:  Believe it. [[I promise]] I’m even better in person [[ ;)]]
+
+Stranger 2: Lol, cocky much? Did you like the photos of me?
+
+Stranger 1: I did. You know I’m into blonds? And your hair looks so soft. What shampoo do you use? Is that [[weird]] to ask? 
+
+Stranger 2:  It’s Garnier Fructus fruits in Green apple. Don’t worry, I like [[weird.]]
+
+Stranger 1: Really? Somehow that makes this better. 
+
+Stranger 2: Makes what better?
+
+Stranger 1: [[Us]] 
+
+
+May 8th 2006 12:09
+
+Stranger 2: Why won’t you reply to my snapchats? I hate talking to you on this, like we’re [[strangers.]]
+
+Stranger 1: Keeps logging me out. We’re not strangers. Soon enough I will know you from the [[Inside out.]]
+
+[[Stranger 2 is typing….]]
+
+Stranger 2: I have to [[go]], i’ll message you soon.
+
+May 9th 2006 4:23 
+
+Stranger 1: Hello? 
+
+May 10th 2006 12:01
+
+Stranger 1: Hello? I washed my hair last night with your shampoo. My pillow smells just like you. I miss you. Sorry if I scared you. 
+
+May 11th 2006 1:32 
+
+Stranger 2: [[Hey.]] 
+
+Stranger 1: Did I make you [[uncomfortable?]]
+
+Stranger 2: A bit. But not in the way you think. I haven’t felt like this before. Wanted, I mean. [[I’m scared]] I’m starting to like you.
+
+Stranger 1: Who wouldn’t want you?  The thought of you consumes me. I hate how far away we are from one another. [[I want to keep you with me forever.]]
+
+May 21st 16:13
+
+Stranger 2: I had a dream about [[you]] last night. 
+
+Stranger 1: A good one I hope [[ ;)]]
+
+Stranger 2: It was strange. We were existing in the space of nothingness, I wasn’t even a person, just an orb. I felt your presence, it was small at first, like a pulsating glow in the darkness, and I swam towards you. 
+
+Stranger 1: And then? 
+
+Stranger 2: You were quick like a fly, hard to catch. But when we finally collided, you grew, pulsating and pulsating like lungs breathing in air. Your glow was vibrant like a thousand suns, and then, before I could fathom what was happening, you collapsed inwards, and a darkness emerged. [[I was sucked right in.]] You snuffed the life right out of me. 
+
+[[Stranger 1 is typing …]] 
+
+[[Stranger 1 is typing… ]]
+
+[[Stranger 1 has logged off.]]
+
+May 15th 2006 22:45
+
+Stranger 2: I’m so sorry for dumping that on you. I don’t know what came over me. It was just a stupid, stupid dream. I’ve been so anxious to meet you, you know? Sometimes I mistake anxiety for gut instinct. Please don’t [[leave me.]]
+
+May 17th 
+
+Stranger 1: Hello. 
+
+Stranger2: Hi! Hey?? I’ve missed [[you]] so much. 
+
+Stranger 1: I want you to come to Sydney. [[I want to meet you.]]
+
+Stranger 2: When? [[I’m afraid]] you won’t like me in real life. I want so badly to please you. 
+
+Stranger 1: [[You will please me,]] I’m sure of it. Come and stay with me.
+
+Stranger 2: At your [[house?]]
+
+Stranger 1: Yes. I live right off Bondi Beach. It’s beautiful here. You will wake up to the smell of salt and sea, the sound of seagulls and laughter. And we would finally be together, forever. 
+
+Stranger 2: If I come, I don’t think i’ll want to leave. 
+
+Stranger 1: Don’t worry, I won’t let you. X 
+
+
+May 25th 2006 13:24
+
+Stranger 2: I’m about to catch my train. But you wouldn’t believe what happened to me as I walked to the station. I swallowed a fly! It was buzzing all around me, i tried to shoo it away to no avail, until finally it landed on my lips. I yelped, and it flew right in. I think I can feel it now, thrashing [[inside of me.]] Or maybe that’s just butterflies x 
+
+Stranger 2: I’m 2 hours away. I’m so scared to meet you. I hope you like me, [[I hope I make you happy.]]
+
+Stranger 2: I’m here, where are you? I’m by the bus shelter, I’m wearing a pink top, can you see me? Or [[am I lost?]]
+
+Stranger 1 has disconnected from the chat. 
+
+Overall, I am worried that it is a bit quick of a relationship. However, I do think that with the added documants I will include, the story might make more sense, or even read slower? 
