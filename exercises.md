@@ -68,6 +68,8 @@ Man 2 - ‘I had an awesome birthday! I spent the night drinking with friends - 
 
 Man 1 - ‘That sounds so fun, you sound pretty popular. I’d love to hangout some time, 
 # Week 7 
+## Galatea
+I found the reading of Galatea way more enjoyable than Shade. Galatea made a lot more sense, and I felt as if there was purpose too it. Maybe I feel like this because I made more progress with it. 
 ### Using Bitsy 
 I don't think I will use Bitsy. I don't think I am advanced enough for it. Right now I am leaning towards Twine, as it seemes easier to learn how to use. My story isn't finalised, I am simply just tossing up ideas. Although I do know I want to expand my prior idea. 
 Initially I wanted to mimic something like 'How To Rob A Bank' by Alan Bigelow. My idea was that I would base it around a 'user' that accidently gives his identity away after clicking on a 'Hot Mums Near You' advertisement, but this seems a bit too advanced for my limited knowledge. I don't think Twine is capable of recreating something like How To Rob a Bank, however I am not opposed to this. I need to work out a way to make Twine work for me whilst also remaining excited about my project. 
