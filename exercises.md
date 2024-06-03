@@ -13,32 +13,45 @@ I use these tools and techniques mostly out of habit, and because they clearly w
 These tools have only ever assisted me, and facilitated my writing. 
 # A Response to the Electronic Literature Collection 
 ## Volume 1 
-
+### Carving In Possibilities by Deena Larson
+There is something quite saddening about this work. I feel as if it captures a time long ago. Both through its subject matter as well as the period in which it was created. It is simplistic in its interactivity, but not at all boring, mostly because it focuses on producing emotionally stimulating prose. 
 ## Volume 2 
-
+### Still Standing by Bruno Nadeau
+I thought it was interesting that we could not interact with this piece, as it was a documantry about the work. Whilst I do understand it to be 'electronic literature' - I do wonder how it can still be considered that if it is merely something that can only be interacted with in person. I guess this is something we will explore throughout class?
 ## Volume 3 
-
+### The Hunt For The Gay Planet by Anna Anthropy
+Initially I thought this was an actual game, but it is text based. It was super fun to play and makes me realise that not all of this stuff needs to be overly complex and it can be obtainable. It makes me positive for my future project. Although, I did find the lack of visuals slightly boring. 
 ## Volume 4 
-
+### How To Rob A Bank By Alan Bigelow
+By far this has been my favourite piece of electronic literature. I absolutely loved the humour and the storytelling. This is something I wish to emmulate aesthetically at least. I will probably talk about the work for the first assignment. 
 # Week 2 
 Strike/
 # Week 3 
-What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
-How are those elements meaningful?
-How are the works read differently from print literature?
-How is electronic literature different from print literature?
-What are the qualities of the works we might consider as qualities of electronic lit
-
+## What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+I read the 'Shade' and although I understood the point of it, I found the work to be incredibly frusturating. I want to understand WHY the story needs to be told. But overall, I do appreicate the work that would have gone into creating something like this. 
+## How are those elements meaningful?
+I think the subtle responses from the computer in 'Shade' are meaningful in a strange way. The computer not understanding my question after I get something wrong is somewhat symbolic. 
+## How are the works read differently from print literature?
+To me, it is all about the interactivity. I find myself completely invested in the outcome of the story, where with print, I am simply an observer of the story, not a contributing factor. You also don't get to read passivly when you engage with electronic literature. Everything needs to be taken into account to progress. 
+## How is electronic literature different from print literature?
+I believe they are similar, not completely different. The level of interactivity is what I believe becomes the main difference. 
+## What are the qualities of the works we might consider as qualities of electronic lit
+Interactivity. 
 # Week 4 
+/ 
 # Week 5 
-How is it different from fiction?
-How is it different from games?
-How do you plan fiction?
-How could you plan hypertext fiction?
+## How is it different from fiction?
+It might not be fiction. The work could be anything. 
+## How is it different from games?
+We talked about this in class at length, and everybody kept referencing 'The Last of Us' which even I find to be a perfect example of literature and gaming. I don't think electonic literature is a game persay, however I also believe it always has some level of interactivity. I struggle to answer this question because I believe you can not so easily 'box' electronic literature. 
+## How do you plan fiction?
+I do not plan my fiction, I simply write and work out things as I go. Maybe this is why I haven't finished a full length novel. 
+## How could you plan hypertext fiction?
+I struggle to answer this as mentioned above, I do not plan. After learning about interactive fiction and hypertext, I will have no choice but to plan my work out. I need to decide what pattern of hypertext I will use for my future story. 
 # Week 6 
 ### Twine response and idea creation
-Planning of an hypertext 
-
+Planning of an hypertext - 
+Two men trying to catfish eachother? 
 Omegel 
 
 Man and Man
